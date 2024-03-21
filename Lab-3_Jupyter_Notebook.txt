@@ -1,0 +1,14 @@
+Python has different built in data types: integers, floating point, strings, etc
+
+    Strings:
+        .upper() - converts all characters to uppercase
+        .lower() - converts all characters to lowercase
+        .split(): breaks up strings into substrings
+        
+    Boolean variables - true or false
+    
+    Complex numbers: use j, .real gives real part, .imag gives imaginary part
+    
+    Sets: unordered collections of unique iterms
+    Tuples: ordered, unchanging collection of items (used for storing data)
+    Dictionaries: unordered collections of key-value pairs (e.g. pairing name or age to the ouput for a given person)
